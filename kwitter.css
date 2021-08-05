@@ -1,0 +1,25 @@
+body{
+
+background-color: aquamarine;
+
+}
+
+#topic{
+
+color: blue;
+text-align: center;
+
+}
+
+#user_enter{
+
+margin: auto;
+padding: 10px;
+
+}
+
+#login_button{
+
+    width: 20%;border-radius: 15px;
+
+}
